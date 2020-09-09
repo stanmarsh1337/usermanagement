@@ -124,7 +124,7 @@ OR
 curl -X PATCH localhost:8080/user/2 -H 'Content-type:application/json' -d '{"address": "Wisteria Lane"}'
 ```
 
-### Searchs
+### Search
 
 The possible searches are listed at :
 
